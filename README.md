@@ -39,7 +39,8 @@ An (incomplete) checklist for making geodata visualizations in (data-driven) jou
 
 **INTERACTIVITY**
 * [x] Is it easily understandable how interactive elements work?
-* [x] Would a static map be equally suitable? Does interactivity really lead to a surplus that&#39;s worth the external dependencies that come along with interactivity?
+* [x] Would a static map be equally suitable? 
+* [x] Does interactivity really lead to a surplus that&#39;s worth the external dependencies that come along with interactivity?
 * [x] Is your map limited to meaningful extends and zoom levels?
 * [x] How does your visualization work with your content management systems?
 * [x] Is everything working fine in most common browsers and on mobile devices (at least in iOS + Android)?
