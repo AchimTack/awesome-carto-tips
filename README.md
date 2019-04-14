@@ -13,8 +13,7 @@ An (incomplete) checklist for making geodata visualizations in (data-driven) jou
 
 **CARTOGRAPHIC REPRESENTATION**
 * [x] Has a suitable spatial reference system been chosen?
-(consider rotation, distortion, equal area)
-
+  - (consider rotation, distortion, equal area)
 * [x] Is the level of given context information (reference points, place names, borders) well balanced?
 * [x] Is it really necessary to use a basemap or can users already orient themselves by the mapped data points?
 * [x] Is there too much useless white space on the map? If yes, how about several smaller maps?
