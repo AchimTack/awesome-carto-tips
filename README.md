@@ -14,6 +14,7 @@ An (incomplete) checklist for making geodata visualizations in (data-driven) jou
 - Have all outliers and duplicates been eliminated? Correctly dealt with incomplete data entries?
 - Have data entries that are not necessary for the final visualization been removed?
 - Have the values been normalized (e.g. by population data)?
+[checkbox:checked] Test
 
 **CARTOGRAPHIC REPRESENTATION**
 
